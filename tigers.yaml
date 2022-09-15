@@ -1,3 +1,5 @@
 team: Uptown
 
-manager: devKya
+manager:
+  - devKya
+  - soya
