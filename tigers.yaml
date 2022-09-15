@@ -4,4 +4,11 @@ manager:
   - devKya
   - soya
 - soyaError
+<<<<<<< HEAD
 - hello
+=======
+
+items:
+- 농구공
+- 전광판
+>>>>>>> add-items
