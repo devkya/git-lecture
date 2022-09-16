@@ -5,6 +5,11 @@ manager:
   - soya
 - soyaError
 
+<<<<<<< HEAD
 items:
 - 농구공
 - 전광판
+=======
+coach :
+- 김도현
+>>>>>>> 02d702c (add coach)
