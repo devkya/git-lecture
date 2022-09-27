@@ -174,4 +174,6 @@ github에서 브랜치 만들어진 경우 `git fetch` 로 변경사항 확인
 
 `git switch -t origin/remote` 로 원격 브랜치로 변경
 
-`git push origin —delete (원격 브랜치명)` → 원격 브랜치 삭제
+`git push origin —delete (원격 브랜치명)` → 원격 브랜치 삭제   
+
+`git checkout -t origin/excel` -> 원격 브랜치 연결  
